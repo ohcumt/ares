@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ares", "Ares\Ares.vcproj", "{991DECCB-09BF-4D50-B77B-11E1E3A7F337}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestEnvironment", "TestEnvironment\TestEnvironment.vcproj", "{2563ADF5-3E3B-49F8-BC91-85CE3FA50E0B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BaseCamera", "BaseCamera\BaseCamera.vcproj", "{E8AE65EC-6C3E-48D1-8AB2-F7DA342D5EB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{991DECCB-09BF-4D50-B77B-11E1E3A7F337}.Debug|Win32.ActiveCfg = Debug|Win32
+		{991DECCB-09BF-4D50-B77B-11E1E3A7F337}.Debug|Win32.Build.0 = Debug|Win32
+		{991DECCB-09BF-4D50-B77B-11E1E3A7F337}.Release|Win32.ActiveCfg = Release|Win32
+		{991DECCB-09BF-4D50-B77B-11E1E3A7F337}.Release|Win32.Build.0 = Release|Win32
+		{2563ADF5-3E3B-49F8-BC91-85CE3FA50E0B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2563ADF5-3E3B-49F8-BC91-85CE3FA50E0B}.Debug|Win32.Build.0 = Debug|Win32
+		{2563ADF5-3E3B-49F8-BC91-85CE3FA50E0B}.Release|Win32.ActiveCfg = Release|Win32
+		{2563ADF5-3E3B-49F8-BC91-85CE3FA50E0B}.Release|Win32.Build.0 = Release|Win32
+		{E8AE65EC-6C3E-48D1-8AB2-F7DA342D5EB8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E8AE65EC-6C3E-48D1-8AB2-F7DA342D5EB8}.Debug|Win32.Build.0 = Debug|Win32
+		{E8AE65EC-6C3E-48D1-8AB2-F7DA342D5EB8}.Release|Win32.ActiveCfg = Release|Win32
+		{E8AE65EC-6C3E-48D1-8AB2-F7DA342D5EB8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
