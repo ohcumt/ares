@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BaseCamera", "BaseCamera\Ba
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mesh_01", "Mesh_01\Mesh_01.vcproj", "{C2F45E9C-D384-4E48-98C2-5356D3020997}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RapidXml", "RapidXml\RapidXml.vcproj", "{7C0076E6-7919-4B9A-933B-13F95B25BFA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -31,6 +33,10 @@ Global
 		{C2F45E9C-D384-4E48-98C2-5356D3020997}.Debug|Win32.Build.0 = Debug|Win32
 		{C2F45E9C-D384-4E48-98C2-5356D3020997}.Release|Win32.ActiveCfg = Release|Win32
 		{C2F45E9C-D384-4E48-98C2-5356D3020997}.Release|Win32.Build.0 = Release|Win32
+		{7C0076E6-7919-4B9A-933B-13F95B25BFA4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7C0076E6-7919-4B9A-933B-13F95B25BFA4}.Debug|Win32.Build.0 = Debug|Win32
+		{7C0076E6-7919-4B9A-933B-13F95B25BFA4}.Release|Win32.ActiveCfg = Release|Win32
+		{7C0076E6-7919-4B9A-933B-13F95B25BFA4}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
