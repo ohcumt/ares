@@ -17,6 +17,7 @@ bool XmlHelper::praseFile( const char* fileName )
 
 	m_doc.parse<0>(m_data);
 
+
 	return true;
 }
 

@@ -11,6 +11,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mesh_01", "Mesh_01\Mesh_01.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RapidXml", "RapidXml\RapidXml.vcproj", "{7C0076E6-7919-4B9A-933B-13F95B25BFA4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mesh_02", "Mesh_02\Mesh_02.vcproj", "{1C153631-7B25-4C65-8B81-3851E6E3388E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Particle", "Particle\Particle.vcproj", "{90EECD49-75FE-44BB-98BA-42B99ADF33B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -37,6 +41,14 @@ Global
 		{7C0076E6-7919-4B9A-933B-13F95B25BFA4}.Debug|Win32.Build.0 = Debug|Win32
 		{7C0076E6-7919-4B9A-933B-13F95B25BFA4}.Release|Win32.ActiveCfg = Release|Win32
 		{7C0076E6-7919-4B9A-933B-13F95B25BFA4}.Release|Win32.Build.0 = Release|Win32
+		{1C153631-7B25-4C65-8B81-3851E6E3388E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1C153631-7B25-4C65-8B81-3851E6E3388E}.Debug|Win32.Build.0 = Debug|Win32
+		{1C153631-7B25-4C65-8B81-3851E6E3388E}.Release|Win32.ActiveCfg = Release|Win32
+		{1C153631-7B25-4C65-8B81-3851E6E3388E}.Release|Win32.Build.0 = Release|Win32
+		{90EECD49-75FE-44BB-98BA-42B99ADF33B1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{90EECD49-75FE-44BB-98BA-42B99ADF33B1}.Debug|Win32.Build.0 = Debug|Win32
+		{90EECD49-75FE-44BB-98BA-42B99ADF33B1}.Release|Win32.ActiveCfg = Release|Win32
+		{90EECD49-75FE-44BB-98BA-42B99ADF33B1}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

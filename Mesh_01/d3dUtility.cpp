@@ -223,7 +223,7 @@ D3DLIGHT9 d3d::InitSpotLight(D3DXVECTOR3* position, D3DXVECTOR3* direction, D3DX
 	return light;
 }
 
-D3DMATERIAL9 d3d::InitMtrl(D3DXCOLOR a, D3DXCOLOR d, D3DXCOLOR s, D3DXCOLOR e, float p)
+D3DMATERIAL9 d3d:: (D3DXCOLOR a, D3DXCOLOR d, D3DXCOLOR s, D3DXCOLOR e, float p)
 {
 	D3DMATERIAL9 mtrl;
 	mtrl.Ambient  = a;
